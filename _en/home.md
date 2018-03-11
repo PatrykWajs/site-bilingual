@@ -9,7 +9,7 @@ header:
 		<li>Another slide</li>
 		<li>My last slide</li>
 	</ul>
-</div>
+ </div>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
