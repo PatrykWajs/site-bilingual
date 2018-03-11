@@ -1,15 +1,6 @@
 ---
 ref: home
 layout: splash
-title: "Department of Informatics" 
-header:
-  <div class="my-slider">
-	<ul>
-		<li>My slide</li>
-		<li>Another slide</li>
-		<li>My last slide</li>
-	</ul>
- </div>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
@@ -38,3 +29,5 @@ intro:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+{%include something.html%}
