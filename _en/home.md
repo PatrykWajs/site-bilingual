@@ -30,4 +30,4 @@ intro:
 
 {% include feature_row %}
 
-{%include something.html%}
+{% include carousel.html %}
