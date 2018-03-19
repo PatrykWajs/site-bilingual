@@ -25,9 +25,8 @@ github:
 intro:
   - excerpt: ''
 ---
+{% include carousel.html %}
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
-
-{% include carousel.html %}
