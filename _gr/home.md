@@ -33,7 +33,7 @@ github:
 intro:
   - excerpt: ''
 ---
-{% coding.html %}
+{% include coding.html %}
 
 {% include feature_row id="intro" type="center" %}
 
